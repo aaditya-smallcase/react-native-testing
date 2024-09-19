@@ -1,3 +1,6 @@
+import React
+import SCGateway
+
 @objc(Testing)
 class Testing: NSObject {
 
